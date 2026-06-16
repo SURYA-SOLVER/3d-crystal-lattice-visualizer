@@ -1,0 +1,42 @@
+# MATLAB Auto-generated Files
+*.asv
+*.mex*
+*.mexw32
+*.mexw64
+*.mexa64
+*.mexmaci64
+
+# MATLAB Workspace & Caching
+matlab.settings
+.matlabroot
+*.mat
+
+# Figure & Output Files
+*.fig
+*.eps
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System Files
+.DS_Store
+Thumbs.db
+.directory
+
+# Temporary Files
+*.tmp
+*.log
+*.cache
+
+# MATLAB Simulink
+*.slx.autosave
+*.mdl.autosave
+slprj/
