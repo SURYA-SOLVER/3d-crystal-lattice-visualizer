@@ -358,7 +358,7 @@ Educational material - Free to use and modify for chemistry coursework.
 ## 👨‍💼 Author
 
 **SURYA-SOLVER** - 1st-Year Chemistry Student  
-Solid-State Chemistry Project (2026)
+Solid-State Chemistry Project (2022)
 
 ---
 
